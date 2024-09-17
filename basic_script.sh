@@ -31,13 +31,7 @@ fi
 echo "Here are the contents of your current directory:"
 ls -l
 
-# Basic arithmetic operation
-echo "Let's perform a basic arithmetic operation."
-echo "Enter two numbers:"
-read num1
-read num2
-sum=$((num1 + num2))
-echo "The sum of $num1 and $num2 is: $sum"
+
 
 # Ending the script
 echo "This was a simple demonstration of shell scripting. Goodbye!"
