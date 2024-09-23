@@ -7,4 +7,4 @@ sum=$((num1 + num2))
 echo "The sum of $num1 and $num2 is: $sum"
 # Pause the script before exit
 echo "Press Enter to exit..."
-read  # This will keep the terminal open until you press Enter
+read  

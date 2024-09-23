@@ -21,5 +21,5 @@ fi
 
 # Pause the script before exit
 echo "Press Enter to exit..."
-read  # This will keep the terminal open until you press Enter
+read  # This will keeminal open until you press Enter
 
