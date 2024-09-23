@@ -1,0 +1,5 @@
+1001:John Doe:5000
+1002:Jane Smith:10000
+1003:Alice Johnson:7500
+1004:Bob Williams:3000
+436202010075934:Kushal:900
