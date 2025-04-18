@@ -1,0 +1,8 @@
+1|sahil|60
+2|sid|70
+3|Dave|50
+4|Kushal|90
+60|Aryan|60
+6|sid|70
+7|Dave|50
+8|Roy|90

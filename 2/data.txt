@@ -1,0 +1,6 @@
+SName Location Product Count
+BigBazaar Delhi Smartphone 25
+Chrome Mumbai Television 45
+Flipkart Kolkata WashingMachine 29
+Amazon Delhi Smartphone 24
+Amazon Kolkata DSLRCamera 65

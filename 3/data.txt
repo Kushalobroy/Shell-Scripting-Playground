@@ -1,0 +1,5 @@
+Mango,Langda,40
+Mango,Alphanso,120
+Apple,Kashmiri,130
+Banana,Red,315
+Banana,robusta,30
